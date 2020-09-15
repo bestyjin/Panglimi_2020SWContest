@@ -1,5 +1,5 @@
 # 팡리미 (팡리미팀)
-## 성신여자대학교 교내 소프트웨어 경진대회
+### 성신여자대학교 교내 소프트웨어 경진대회
 
 #### 주요기능
 1. 지팡이(라즈베리파이)와 앱(안드로이드) 연동
@@ -13,8 +13,9 @@
 ![KakaoTalk_20200817_180805452_05](https://user-images.githubusercontent.com/71006256/93229369-786e7b80-f7b1-11ea-8678-64e6c88acef9.jpg)
 6. 도로명 주소 (카카오 api 이용)<br>
 ![KakaoTalk_20200817_180805452_03](https://user-images.githubusercontent.com/71006256/93229364-77d5e500-f7b1-11ea-9f2c-c6f5361f591a.jpg)
-7. 데이터베이스(Mysql)와 앱(안드로이드) 연동
-8. AWS 서버 이용
+7. AWS 서버 이용
+8. 데이터베이스(Mysql)와 앱(안드로이드) 연동
+![panglimi_php](https://user-images.githubusercontent.com/71006256/93231669-f0d63c00-f7b3-11ea-8391-9e79ee8a9b4b.jpg)
 9. 회원가입, 로그인<br>
 ![KakaoTalk_20200817_180805452_06](https://user-images.githubusercontent.com/71006256/93229371-79071200-f7b1-11ea-9573-240d8cd62d5f.jpg)
 ![KakaoTalk_20200817_180805452_02](https://user-images.githubusercontent.com/71006256/93229361-77d5e500-f7b1-11ea-9b32-d7946c3c063a.jpg)
