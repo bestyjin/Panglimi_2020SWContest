@@ -20,7 +20,6 @@ import java.util.concurrent.ExecutionException;
 public class Setting_Page extends Fragment {
     Button editBtn, addressBtn,logoutBtn, withdrawBtn,versionBtn,stickBtn;
     SwitchButton alarmButton;
-    TextView realstickNum;
 
     @Nullable
     @Override
