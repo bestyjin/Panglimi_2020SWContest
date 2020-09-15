@@ -3,7 +3,7 @@
 
 #### 주요기능
 1. 지팡이 위치 확인 (구글 api 이용)
- ![KakaoTalk_20200817_180805452_04](https://user-images.githubusercontent.com/71006256/93229367-786e7b80-f7b1-11ea-980e-70ac2a1a836a.jpg)
+![KakaoTalk_20200817_180805452_04](https://user-images.githubusercontent.com/71006256/93229367-786e7b80-f7b1-11ea-980e-70ac2a1a836a.jpg)
 2. 지팡이 역대 위치 리스트
 ![KakaoTalk_20200817_180805452](https://user-images.githubusercontent.com/71006256/93229355-760c2180-f7b1-11ea-83e1-9ce2ceab334d.jpg)
 3. 지팡이 위치 알림 서비스
