@@ -18,7 +18,6 @@
 ![panglimi_php](https://user-images.githubusercontent.com/71006256/93231669-f0d63c00-f7b3-11ea-8391-9e79ee8a9b4b.jpg)
 9. 회원가입, 로그인<br>
 ![KakaoTalk_20200817_180805452_06](https://user-images.githubusercontent.com/71006256/93229371-79071200-f7b1-11ea-9573-240d8cd62d5f.jpg)
-![KakaoTalk_20200817_180805452_02](https://user-images.githubusercontent.com/71006256/93229361-77d5e500-f7b1-11ea-9b32-d7946c3c063a.jpg)
 10. SNS 로그인(카카오 api 이용)<br>
 ![KakaoTalk_20200817_180805452_07](https://user-images.githubusercontent.com/71006256/93229372-799fa880-f7b1-11ea-8c9d-3b226c9bbb2e.jpg)
 
