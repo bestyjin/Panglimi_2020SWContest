@@ -5,7 +5,7 @@
 1. 지팡이(라즈베리파이)와 앱(안드로이드) 연동
 2. 지팡이 위치 확인 (구글 api 이용) <br>
 ![KakaoTalk_20200817_180805452_04](https://user-images.githubusercontent.com/71006256/93229367-786e7b80-f7b1-11ea-980e-70ac2a1a836a.jpg)
-3.지팡이 역대 위치 리스트<br>
+3. 지팡이 역대 위치 리스트<br>
 ![KakaoTalk_20200817_180805452](https://user-images.githubusercontent.com/71006256/93229355-760c2180-f7b1-11ea-83e1-9ce2ceab334d.jpg)
 4. 지팡이 위치 알림 서비스<br>
 ![KakaoTalk_20200817_180805452_01](https://user-images.githubusercontent.com/71006256/93229359-773d4e80-f7b1-11ea-99d3-92f384ad1f1a.jpg)
