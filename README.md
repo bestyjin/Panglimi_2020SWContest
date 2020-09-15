@@ -9,9 +9,9 @@
 ![KakaoTalk_20200817_180805452](https://user-images.githubusercontent.com/71006256/93229355-760c2180-f7b1-11ea-83e1-9ce2ceab334d.jpg)
 4. 지팡이 위치 알림 서비스<br>
 ![KakaoTalk_20200817_180805452_01](https://user-images.githubusercontent.com/71006256/93229359-773d4e80-f7b1-11ea-99d3-92f384ad1f1a.jpg)
-5. 지팡이 고유 번호 등록<br>
+5. 지팡이 고유 번호 등록(본인담당)<br>
 ![KakaoTalk_20200817_180805452_05](https://user-images.githubusercontent.com/71006256/93229369-786e7b80-f7b1-11ea-8678-64e6c88acef9.jpg)
-6. 도로명 주소 (카카오 api 이용)<br>
+6. 도로명 주소 (카카오 api 이용)(본인담당)<br>
 ![KakaoTalk_20200817_180805452_03](https://user-images.githubusercontent.com/71006256/93229364-77d5e500-f7b1-11ea-9f2c-c6f5361f591a.jpg)
 7. AWS 서버 이용
 8. 데이터베이스(Mysql)와 앱(안드로이드) 연동
