@@ -1,4 +1,4 @@
-# 팡리미 (팡리미팀)
+# 팡리미 (팡리미팀)   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 ### 교내 소프트웨어 경진대회 출품작 (금상 수상)
 
 - 본인 담당
